@@ -55,7 +55,7 @@ The dataset is available at:
 
 ---
 
-## 📊 Results
+##  Results
 
 - **Churn Prediction Accuracy:** **79%**  
 - **AUC Score:** **0.85**  
