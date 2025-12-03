@@ -4,14 +4,14 @@ This project analyzes telecom customer churn using machine learning and statisti
 
 ---
 
-## 📈 Dataset
+##  Dataset
 
 The dataset is available at:  
 [**Telco Customer Churn Dataset (Kaggle)**](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
 
-## 🚀 Key Highlights
+##  Key Highlights
 
 - **Dataset:** 7,043 telecom customer records from [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 - **Churn Prediction:** Built a **Random Forest** model with **79% accuracy (AUC = 0.85)**.
@@ -21,14 +21,14 @@ The dataset is available at:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Programming Language:** Python  
 - **Libraries:** pandas, numpy, scikit-learn, lifelines, matplotlib, seaborn, imbalanced-learn  
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 1. **Data Cleaning & Preprocessing**  
    - Handled missing values and converted categorical variables into numeric using one-hot encoding.
